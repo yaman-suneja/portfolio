@@ -1,0 +1,106 @@
+export const ambition = [
+    require("../assets/images/portfolio/ambition/1.png"),
+    require("../assets/images/portfolio/ambition/2.png"),
+    require("../assets/images/portfolio/ambition/3.png"),
+    require("../assets/images/portfolio/ambition/4.png"),
+    require("../assets/images/portfolio/ambition/5.png"),
+    require("../assets/images/portfolio/ambition/6.png"),
+    require("../assets/images/portfolio/ambition/7.png")
+];
+export const cardmoola = [
+    require("../assets/images/portfolio/cardmoola/1.png"),
+    require("../assets/images/portfolio/cardmoola/2.png"),
+    require("../assets/images/portfolio/cardmoola/3.png"),
+    require("../assets/images/portfolio/cardmoola/4.png"),
+    require("../assets/images/portfolio/cardmoola/5.png"),
+    require("../assets/images/portfolio/cardmoola/6.png"),
+    require("../assets/images/portfolio/cardmoola/7.png"),
+    require("../assets/images/portfolio/cardmoola/8.png"),
+    require("../assets/images/portfolio/cardmoola/9.png"),
+    require("../assets/images/portfolio/cardmoola/10.png"),
+    require("../assets/images/portfolio/cardmoola/11.png"),
+    require("../assets/images/portfolio/cardmoola/12.png"),
+    require("../assets/images/portfolio/cardmoola/13.png"),
+    require("../assets/images/portfolio/cardmoola/14.png"),
+    require("../assets/images/portfolio/cardmoola/15.png"),
+    require("../assets/images/portfolio/cardmoola/16.png"),
+    require("../assets/images/portfolio/cardmoola/17.png"),
+    require("../assets/images/portfolio/cardmoola/18.png")
+];
+export const marijuanadoctors = [
+    require("../assets/images/portfolio/marijuanadoctors/1.png"),
+    require("../assets/images/portfolio/marijuanadoctors/2.png"),
+    require("../assets/images/portfolio/marijuanadoctors/3.png"),
+    require("../assets/images/portfolio/marijuanadoctors/4.png"),
+    require("../assets/images/portfolio/marijuanadoctors/5.png"),
+    require("../assets/images/portfolio/marijuanadoctors/6.png"),
+    require("../assets/images/portfolio/marijuanadoctors/7.png"),
+    require("../assets/images/portfolio/marijuanadoctors/8.png")
+];
+export const listingloop = [
+    require("../assets/images/portfolio/listingloop/1.png"),
+    require("../assets/images/portfolio/listingloop/2.png"),
+    require("../assets/images/portfolio/listingloop/3.png"),
+    require("../assets/images/portfolio/listingloop/4.png"),
+    require("../assets/images/portfolio/listingloop/5.png"),
+    require("../assets/images/portfolio/listingloop/6.png"),
+];
+export const gom = [
+    require("../assets/images/portfolio/gom/1.png"),
+    require("../assets/images/portfolio/gom/2.png"),
+    require("../assets/images/portfolio/gom/3.png"),
+    require("../assets/images/portfolio/gom/4.png"),
+    require("../assets/images/portfolio/gom/5.png"),
+    require("../assets/images/portfolio/gom/6.png"),
+    require("../assets/images/portfolio/gom/7.png"),
+    require("../assets/images/portfolio/gom/8.png"),
+    require("../assets/images/portfolio/gom/9.png"),
+    require("../assets/images/portfolio/gom/10.png"),
+    require("../assets/images/portfolio/gom/11.png"),
+    require("../assets/images/portfolio/gom/12.png"),
+    require("../assets/images/portfolio/gom/13.png"),
+    require("../assets/images/portfolio/gom/14.png"),
+    require("../assets/images/portfolio/gom/15.png"),
+    require("../assets/images/portfolio/gom/16.png"),
+    require("../assets/images/portfolio/gom/17.png"),
+    require("../assets/images/portfolio/gom/18.png"),
+    require("../assets/images/portfolio/gom/19.png"),
+    require("../assets/images/portfolio/gom/20.png"),
+    require("../assets/images/portfolio/gom/21.png"),
+    require("../assets/images/portfolio/gom/22.png"),
+    require("../assets/images/portfolio/gom/23.png"),
+    require("../assets/images/portfolio/gom/24.png"),
+    require("../assets/images/portfolio/gom/25.png"),
+    require("../assets/images/portfolio/gom/26.png"),
+    require("../assets/images/portfolio/gom/27.png"),
+    require("../assets/images/portfolio/gom/28.png"),
+    require("../assets/images/portfolio/gom/29.png"),
+    require("../assets/images/portfolio/gom/30.png"),
+    require("../assets/images/portfolio/gom/31.png"),
+    require("../assets/images/portfolio/gom/32.png"),
+    require("../assets/images/portfolio/gom/33.png")
+];
+export const freshpos = [
+    require("../assets/images/portfolio/freshpos/1.png"),
+    require("../assets/images/portfolio/freshpos/2.png"),
+    require("../assets/images/portfolio/freshpos/3.png"),
+    require("../assets/images/portfolio/freshpos/4.png"),
+    require("../assets/images/portfolio/freshpos/5.png"),
+    require("../assets/images/portfolio/freshpos/6.png"),
+    require("../assets/images/portfolio/freshpos/7.png"),
+    require("../assets/images/portfolio/freshpos/8.png"),
+    require("../assets/images/portfolio/freshpos/9.png")
+];
+export const brokersumo = [
+    require("../assets/images/portfolio/brokersumo/1.png"),
+    require("../assets/images/portfolio/brokersumo/2.png"),
+    require("../assets/images/portfolio/brokersumo/3.png"),
+    require("../assets/images/portfolio/brokersumo/4.png"),
+    require("../assets/images/portfolio/brokersumo/5.png"),
+    require("../assets/images/portfolio/brokersumo/6.png"),
+    require("../assets/images/portfolio/brokersumo/7.png"),
+    require("../assets/images/portfolio/brokersumo/8.png"),
+    require("../assets/images/portfolio/brokersumo/9.png"),
+    require("../assets/images/portfolio/brokersumo/10.png"),
+    require("../assets/images/portfolio/brokersumo/11.png")
+];

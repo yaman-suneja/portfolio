@@ -1,0 +1,398 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": [
+      "👋 I'm Yaman Suneja with over 6 years of full stack web development experience working in a leadership role with cross-functional teams consisting of Web Designers, Developers, and Quality Assurance",
+      "I'm working with newest frameworks like React, Angular, Node.js, Web3.js, JavaScript, Next.js",
+      "Building responsive Single-Page-Apps (SPA) & PWA in React.js or Angular.js",
+      "Building RESTful APIs in Node.js, Java",
+      "Experience of working on multiple cloud platforms like AWS",
+      "Hosting and maintaining websites on virtual machine instances along with integration of databases PostgreSQL, MySQL, MongoDB",
+      "Building CI/CD pipelines for automated testing & deployment using Github Actions",
+      "Experience in developing Smart Contract using Solidity, Ethereum and Polygon",
+      "Building Scripts for automated testing & deployment of Smart Contracts using Brownie & Infura",
+      "Developing NFT Smart Contracts using ERC-721 Token Standard",
+      "Building Dapps with React.js & Solidity using Web3.js, Moralis & IPFS",
+      "Excellent communication and interpersonal skills developed through interaction with clients, team members, contractors, and content publishers",
+      "Strong organizational and multi-tasking skills developed by working on multiple projects with conflicting deadlines",
+      "Adaptable to diverse working environments and capable of working effectively in a team or independently",
+      "Dedication to project deadlines with 100% success rate of completing projects on or before the deadline",
+      "Willing to work overtime as required to meet compressed project deadlines",
+      "Willing to adapt the changing environment and learn new technologies and semantics with ease"
+    ],
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Ambition",
+      "startDate": "2022",
+      "description": "It is a platform for launching NFT collection, to create the simplest way to launch an NFT collectio. Compatible with the world's most popular blockchains Ethereum, Polygon and Solana. Creators can either build a custom minting website with Ambition, or use our embedded minting button with their existing website builder. Creators can set the whitelist holders easily with our no-code tool. This way, it helps the creators to plan out their pre-sale phase smoothly. Creators can set both pre-sale and public sale dates easily from our dashboard. Creators can set delayed or instant reveals on their NFT collection sale.",
+      "imagesKey": "ambition",
+      "url": "https://ambition.so/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "Mongo DB"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": "Webpack"
+        },
+        {
+          "class": "devicon-babel-plain",
+          "name": "Babel"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        },
+        {
+          "class": "devicon-nginx-original",
+          "name": "Nginx"
+        },
+        {
+          "class": "devicon-npm-original-wordmark",
+          "name": "Npm"
+        }
+      ]
+    },
+    {
+      "title": "Cardmoola",
+      "startDate": "2021",
+      "description": "It is a platform for buying/selling gift cards and exchanging them for money that gets credited to the wallet. Integration with 3rd party (e-gifter) to buy cards, make payment using apple-pay, google-pay, paypal and authorize.net. Schedule gift carddelivery. Users can view order history, update the card details or payment methods and billing addresses. Users also entitled to cashback on every purchase, they can view the cashback balance and transactions. One can also refer a friend to earn joining bonus. There is a provision and campaign for influencers to invite new users and earn bonus. Sift console integration to run severa;l workflows and minimize fraudulent activities.",
+      "imagesKey": "cardmoola",
+      "url": "https://cardmoola.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-postgresql-plain",
+          "name": "Postgresql"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": "Webpack"
+        },
+        {
+          "class": "devicon-babel-plain",
+          "name": "Babel"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        },
+        {
+          "class": "devicon-amazonwebservices-original",
+          "name": "AWS"
+        }
+      ]
+    },
+    {
+      "title": "Marijuana Doctors",
+      "startDate": "2019",
+      "description": "As marijuana is legalized in several states of America, so thus the dispensaries offering cure. Thus this project is solely responsible for managing the dispensaries and patients and their appointments with the associated doctors.",
+      "imagesKey": "marijuanadoctors",
+      "url": "https://www.marijuanadoctors.com/",
+      "technologies": [
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "Mysql"
+        },
+        {
+          "class": "devicon-laravel-plain",
+          "name": "Laravel"
+        },
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "Wordpress"
+        }
+      ]
+    },
+    {
+      "title": "Listing loop",
+      "startDate": "2019",
+      "description": "Gives buyers access to properties for sale that aren't always advertised on the major sites. Buyers can now discover properties for sale from all real estateagencies in the one convenient place.",
+      "imagesKey": "listingloop",
+      "url": "https://listingloop.com.au/",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": "Webpack"
+        },
+        {
+          "class": "devicon-babel-plain",
+          "name": "Babel"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        }
+      ]
+    },
+    {
+      "title": "Gather Our Memories",
+      "startDate": "2018",
+      "description": "It is a platform, where Funeral Homes create new Cases for the deceased Persons. These Cases are then accessed by the loved one's family members and perform tasks such as: writing the obituary, scheduling funeral events, generating the contracts and so on.",
+      "imagesKey": "gom",
+      "url": "https://my.gatherqa.app/remember/amy-caserton",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node JS"
+        },
+        {
+          "class": "devicon-webpack-plain",
+          "name": "Webpack"
+        },
+        {
+          "class": "devicon-babel-plain",
+          "name": "Babel"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "Material UI"
+        }
+      ]
+    },
+    {
+      "title": "Fresh Pos-Dry Cleaning",
+      "startDate": "2017",
+      "description": "This application provides ease to the store owners, customers and drivers. Here store owners are the owners taking care of Dry-Cleaning stores. Customers are the people, who get their clothes cleaned and Drivers are the people responsible for all the transits.",
+      "imagesKey": "freshpos",
+      "url": "https://www.freshpos.io/",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-electron-original",
+          "name": "Electron"
+        },
+        {
+          "class": "devicon-ionic-original",
+          "name": "Ionic"
+        }
+      ]
+    },
+    {
+      "title": "Brokersumo",
+      "startDate": "2016",
+      "description": "Managing Commissions, Back Office And Accounting for Real Estate Brokerages And Agent Teams and On boarding new agents, managing and processing agents monthly billings, customizing commission plans and closing fees.",
+      "imagesKey": "brokersumo",
+      "url": "https://www.brokersumo.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": {
+        "name": "R. S. TRADING COMPANY (INDIA)",
+        "link": null,
+        "logo": "rstcLogo"
+      },
+      "title": "Technical Head of Sales and Inventory Management",
+      "years": "05.2010 - 06.2015",
+      "technologies": [
+        "Salary Management",
+        "Stock Management",
+        "Book Keeping"
+      ]
+    },
+    {
+      "company": {
+        "name": "IBM Daksh - Concentrix (INDIA)",
+        "link": "https://www.concentrix.com/",
+        "logo": "ibmLogo"
+      },
+      "title": "IT Consultant At Make My Trip",
+      "years": "06.2015 - 01.2016",
+      "technologies": [
+        "IT support",
+        "Antimalware",
+        "Diagnose Security Threats",
+        "Networking"
+      ]
+    },
+    {
+      "company": {
+        "name": "IOTASOL PVT. LTD. (INDIA)",
+        "link": "https://www.iotasol.com/",
+        "logo": "iotasolLogo"
+      },
+      "title": "Software Engineer",
+      "years": "05.2016 - 02.2021",
+      "technologies": [
+        "React.Js",
+        "Redux",
+        "React-hybrid-SSR",
+        "React-Material-UI",
+        "Node.JS",
+        "Express.Js",
+        "PostgreSQL",
+        "Angular Material",
+        "Angular JS",
+        "Angular/flex-layout",
+        "Ionic",
+        "Spring-MVC-JAVA",
+        "MySQL",
+        "Shopify",
+        "Firebase",
+        "Wordpress",
+        "HTML5",
+        "jQuery",
+        "JavaScript",
+        "TypeScript",
+        "Bootstrap",
+        "CSS3",
+        "SCSS",
+        "VBA",
+        "REST API",
+        "RxJS",
+        "JavaScript",
+        "Bootstrap",
+        "AWS",
+        "Electron"
+      ]
+    },
+    {
+      "company": {
+        "name": "Cydev Inc. (USA)",
+        "link": "https://cydev.net/",
+        "logo": "cydevLogo"
+      },
+      "title": "Enterprise resource developer & Project Manager",
+      "years": "02.2021 - 07.2022",
+      "technologies": [
+        "React.Js",
+        "React hooks",
+        "React-Material-UI",
+        "Node.JS",
+        "Jest Tests",
+        "Openapi Swagger",
+        "Playwright e2e Tests",
+        "Sift",
+        "Docker",
+        "PostgreSQL",
+        "Wordpress",
+        "HTML5",
+        "jQuery",
+        "JavaScript",
+        "TypeScript",
+        "REST API",
+        "NODE MAILER",
+        "AWS Codepipelines",
+        "AWS Lambda",
+        "AWS sns",
+        "Stripe",
+        "Authorize.net",
+        "Apple pay",
+        "Google pay",
+        "PayPal",
+        "Venmo",
+        "E-gifter",
+        "JWT-token",
+        "Passport.js",
+        "Webpack"
+      ]
+    },
+    {
+      "company": {
+        "name": "Ambition (CANADA)",
+        "link": "https://ambition.so/",
+        "logo": "ambitionLogo"
+      },
+      "title": "Software Engineer",
+      "years": "01.2022 - 07.2022",
+      "technologies": [
+        "React.Js",
+        "React hooks",
+        "React-Material-UI",
+        "Node.JS",
+        "Jest Tests",
+        "Web3",
+        "Moralis",
+        "Apollo GraphQL",
+        "MongoDB",
+        "Certbot",
+        "NPM packages",
+        "Moralis",
+        "Web3.js",
+        "Webpack",
+        "Blockchain Contracts"
+      ]
+    }
+  ]
+}

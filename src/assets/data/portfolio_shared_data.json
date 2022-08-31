@@ -1,0 +1,257 @@
+{
+  "basic_info": {
+    "name": "Yaman Suneja",
+    "titles": [
+      "Full-stack Developer",
+      "Senior Software Engineer",
+      "Dev Team lead",
+      "Blockchain Engineer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/yaman-suneja/portfolio",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "linkedin",
+        "url": "www.linkedin.com/in/yaman-suneja",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/yaman_suneja/",
+        "class": "fab fa-instagram"
+      }
+    ]
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "Angular",
+        "class": "devicon-angularjs-plain",
+        "level": "80"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "70"
+      },
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original",
+        "level": "75"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "Typescript",
+        "class": "devicon-typescript-plain",
+        "level": "85"
+      },
+      {
+        "name": "Postgresql",
+        "class": "devicon-postgresql-plain",
+        "level": "85"
+      },
+      {
+        "name": "Android",
+        "class": "devicon-android-plain",
+        "level": "85"
+      },
+      {
+        "name": "MySql",
+        "class": "devicon-mysql-plain",
+        "level": "60"
+      },
+      {
+        "name": "Mongodb",
+        "class": "devicon-mongodb-plain",
+        "level": "60"
+      },
+      {
+        "name": "Trello",
+        "class": "devicon-trello-plain",
+        "level": "60"
+      },
+      {
+        "name": "Nextjs",
+        "class": "devicon-nextjs-original",
+        "level": "60"
+      },
+      {
+        "name": "Electron",
+        "class": "devicon-electron-original",
+        "level": "60"
+      },
+      {
+        "name": "Babel",
+        "class": "devicon-babel-plain",
+        "level": "60"
+      },
+      {
+        "name": "Bitbucket",
+        "class": "devicon-bitbucket-original",
+        "level": "60"
+      },
+      {
+        "name": "Eslint",
+        "class": "devicon-eslint-original",
+        "level": "60"
+      },
+      {
+        "name": "Nodejs",
+        "class": "devicon-nodejs-plain",
+        "level": "60"
+      },
+      {
+        "name": "Jira",
+        "class": "devicon-jira-plain",
+        "level": "60"
+      },
+      {
+        "name": "Handlebars",
+        "class": "devicon-handlebars-plain",
+        "level": "60"
+      },
+      {
+        "name": "Spring",
+        "class": "devicon-spring-plain",
+        "level": "60"
+      },
+      {
+        "name": "Webpack",
+        "class": "devicon-webpack-plain",
+        "level": "60"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "60"
+      },
+      {
+        "name": "Nginx",
+        "class": "devicon-nginx-original",
+        "level": "60"
+      },
+      {
+        "name": "Figma",
+        "class": "devicon-figma-plain",
+        "level": "60"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "60"
+      },
+      {
+        "name": "Graphql",
+        "class": "devicon-graphql-plain",
+        "level": "60"
+      },
+      {
+        "name": "Ionic",
+        "class": "devicon-ionic-original",
+        "level": "60"
+      },
+      {
+        "name": "Jquery",
+        "class": "devicon-jquery-plain",
+        "level": "60"
+      },
+      {
+        "name": "Material UI",
+        "class": "devicon-materialui-plain",
+        "level": "60"
+      },
+      {
+        "name": "Slack",
+        "class": "devicon-slack-plain",
+        "level": "60"
+      },
+      {
+        "name": "Wordpress",
+        "class": "devicon-wordpress-plain",
+        "level": "60"
+      },
+      {
+        "name": "Npm",
+        "class": "devicon-npm-original-wordmark",
+        "level": "60"
+      },
+      {
+        "name": "Polygon",
+        "class": "devicon-polygon-plain",
+        "level": "60"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "60"
+      },
+      {
+        "name": "Visual Studio",
+        "class": "devicon-visualstudio-plain",
+        "level": "60"
+      },
+      {
+        "name": "Express",
+        "class": "devicon-express-original",
+        "level": "60"
+      },
+      {
+        "name": "Docker",
+        "class": "devicon-docker-plain",
+        "level": "60"
+      },
+      {
+        "name": "Firebase",
+        "class": "devicon-firebase-plain",
+        "level": "60"
+      },
+      {
+        "name": "Php",
+        "class": "devicon-php-plain",
+        "level": "60"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "60"
+      },
+      {
+        "name": "Aws",
+        "class": "fab fa-aws",
+        "level": "60"
+      },
+      {
+        "name": "Apple Pay",
+        "class": "fab fa-apple-pay",
+        "level": "60"
+      },
+      {
+        "name": "Stripe",
+        "class": "fab fa-stripe",
+        "level": "60"
+      },
+      {
+        "name": "Ubuntu",
+        "class": "fab fa-ubuntu",
+        "level": "60"
+      }
+    ]
+  }
+}

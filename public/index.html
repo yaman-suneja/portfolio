@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Yaman Suneja | Full Stack Engineer</title>
+  <meta charset="utf-8" />
+  <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#000000" />
+  <meta name="Yaman Suneja Portfolio" content="Created using create-react-app" />
+
+  <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+    integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    
+  <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+
+  <script src="%PUBLIC_URL%/js/snow.particles.min.js"></script>
+
+</head>
+
+<body data-theme="dark">
+  <div id="root"></div>
+  <script>
+    var init = function () {
+      var ps = new ParticleSlider({
+        ptlGap: 0,
+        ptlSize: 1,
+        width: 1e9,
+        height: 480
+      });
+
+      ps.monochrome = true;
+
+      (window.addEventListener
+        ? window.addEventListener('click', function () { ps.init(true) }, false)
+        : window.onclick = function () { ps.init(true) });
+    }
+
+    var initParticleSlider = function () {
+      var psScript = document.createElement('script');
+      psScript.onload = init;
+      psScript.src = '%PUBLIC_URL%/js/particleSlider.js';
+      psScript.setAttribute('type', 'text/javascript');
+      document.body.appendChild(psScript);
+    }
+    initParticleSlider();
+  </script>
+</body>
+
+</html>
