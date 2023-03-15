@@ -2,10 +2,10 @@
   "basic_info": {
     "description_header": "Hi",
     "description": [
-      "👋 I'm Yaman Suneja with over 6 years of full stack web development experience working in a leadership role with cross-functional teams consisting of Web Designers, Developers, and Quality Assurance",
+      "👋 I'm Yaman Suneja with over 7 years of full stack web development experience working in a leadership role with cross-functional teams consisting of Web Designers, Developers, and Quality Assurance",
       "I'm working with newest frameworks like React, Angular, Node.js, Web3.js, JavaScript, Next.js",
-      "Building responsive Single-Page-Apps (SPA) & PWA in React.js or Angular.js",
-      "Building RESTful APIs in Node.js, Java",
+      "Building responsive Single-Page-Apps (SPA) & PWA in React.js and Angular.js",
+      "Building RESTful APIs in Node.js, Java, Php laravel",
       "Experience of working on multiple cloud platforms like AWS",
       "Hosting and maintaining websites on virtual machine instances along with integration of databases PostgreSQL, MySQL, MongoDB",
       "Building CI/CD pipelines for automated testing & deployment using Github Actions",
@@ -28,6 +28,56 @@
     }
   },
   "projects": [
+    {
+      "title": "Code Of Harmony",
+      "startDate": "2023",
+      "description": "CBD is one of the many ingredients we use to bring your skin into Homeostasis, or perfect balance. While CBD is our star ingredient, we know that it takes a synergistic formula to achieve happy, healthy skin. Our original blends are made with a therapeutic dose of CBD, antioxidants, vitamins, and nutrients that have been scientifically proven effective and safe.",
+      "imagesKey": "codeofharmony",
+      "url": "https://codeofharmony.com/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "WooCommerce"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        }
+      ]
+    },
+    {
+      "title": "Snack Attack",
+      "startDate": "2023",
+      "description": "Snack Attack offers Exotic Snacks & Exotic Drinks in Canada. Our shop has exotic snacks Vancouver, prime drink, fatafat candy, Indian candies & more.",
+      "imagesKey": "snackattack",
+      "url": "https://thesnackattack.ca/",
+      "technologies": [
+        {
+          "class": "devicon-wordpress-plain",
+          "name": "WordPress"
+        },
+        {
+          "class": "devicon-woocommerce-plain",
+          "name": "WooCommerce"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        }
+      ]
+    },
     {
       "title": "Ambition",
       "startDate": "2022",
@@ -392,6 +442,23 @@
         "Web3.js",
         "Webpack",
         "Blockchain Contracts"
+      ]
+    },
+    {
+      "company": {
+        "name": "Snack Attack (CANADA)",
+        "link": "https://thesnackattack.ca/",
+        "logo": "snackattacklogo"
+      },
+      "title": "Fullstack Software Engineer",
+      "years": "01.2022 - PRESENT",
+      "technologies": [
+        "Wordpress",
+        "PHP",
+        "HTML5",
+        "CSS3",
+        "WooCommerce",
+        "WooRewards"
       ]
     }
   ]

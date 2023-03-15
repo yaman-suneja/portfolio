@@ -9,6 +9,8 @@ import Skills from "./components/Skills";
 import Name from "./components/Name";
 import Testimonials from "./components/Testimonials";
 
+// import Interview from "./components/interview";
+
 const resumeData = require('./assets/data/res_primaryLanguage.json');
 const sharedData = require('./assets/data/portfolio_shared_data.json');
 
@@ -58,6 +60,9 @@ class App extends Component {
         <Name />
 
         <Footer sharedBasicInfo={this.state.sharedData.basic_info} />
+
+        {/* <Interview label="PROPS GOES HERE" /> */}
+
       </div>
     );
   }

@@ -45,7 +45,7 @@ class About extends Component {
                       <p>Phone:</p> <span>(705) 465-6613</span>
                     </div>
                     <div>
-                      <p>Address:</p> <span>24 Cedar St S, Timmins, ON P4N 2G4</span>
+                      <p>Address:</p> <span>Timmins, ON P4N 3E8</span>
                     </div>
                   </div>
 

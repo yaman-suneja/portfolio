@@ -104,3 +104,19 @@ export const brokersumo = [
     require("../assets/images/portfolio/brokersumo/10.png"),
     require("../assets/images/portfolio/brokersumo/11.png")
 ];
+export const codeofharmony = [
+    require("../assets/images/portfolio/codeofharmony/1.png"),
+    require("../assets/images/portfolio/codeofharmony/2.png"),
+    require("../assets/images/portfolio/codeofharmony/3.png"),
+    require("../assets/images/portfolio/codeofharmony/4.png"),
+    require("../assets/images/portfolio/codeofharmony/5.png"),
+    require("../assets/images/portfolio/codeofharmony/6.png")
+];
+export const snackattack = [
+    require("../assets/images/portfolio/snackattack/1.png"),
+    require("../assets/images/portfolio/snackattack/2.png"),
+    require("../assets/images/portfolio/snackattack/3.png"),
+    require("../assets/images/portfolio/snackattack/4.png"),
+    require("../assets/images/portfolio/snackattack/5.png"),
+    require("../assets/images/portfolio/snackattack/6.png")
+];

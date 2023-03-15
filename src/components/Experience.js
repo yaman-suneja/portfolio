@@ -11,6 +11,7 @@ const ibmLogo = require(`../assets/images/logos/ibm-logo.jpg`);
 const iotasolLogo = require(`../assets/images/logos/iotasol-logo.png`);
 const cydevLogo = require(`../assets/images/logos/cydev-logo.png`);
 const ambitionLogo = require(`../assets/images/logos/ambition-logo.png`);
+const snackattacklogo = require(`../assets/images/logos/snackattack-logo.png`);
 
 const getLogo = (logo) => {
   switch (logo) {
@@ -24,6 +25,8 @@ const getLogo = (logo) => {
       return cydevLogo;
     case 'ambitionLogo':
       return ambitionLogo;
+    case 'snackattacklogo':
+      return snackattacklogo;
     default:
       return undefined;
   }
